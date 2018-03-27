@@ -1,5 +1,15 @@
+
 .gradle
 /build/
+!gradle/wrapper/gradle-wrapper.jar
+
+.nb-gradle
+.nb-gradle-properties
+.gradle
+
+build/
+classes/
+out/
 !gradle/wrapper/gradle-wrapper.jar
 
 ### STS ###
